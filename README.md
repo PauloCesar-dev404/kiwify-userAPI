@@ -1,25 +1,27 @@
 <div align="center">
-    <img src="assets/udemy_userAPI-logo.png" alt="udemy_userAPI-logo" width="200"/>
-  
+    <img src="./assets/kiwify_userAPI-logo.png" alt="kiwify_userAPI-logo" width="200"/> 
 
-![Versão](https://img.shields.io/badge/version-0.1.5-orange)
+![Versão](https://img.shields.io/badge/version-1.0.0.0-orange)
 ![Licença](https://img.shields.io/badge/license-MIT-orange)
-[![Sponsor](https://img.shields.io/badge/💲Donate-yellow)](https://apoia.se/paulocesar-dev404)
-[![Sponsor](https://img.shields.io/badge/Documentation-green)](https://github.com/PauloCesar-dev404/udemy-userAPI/wiki)
+[![Sponsor](https://img.shields.io/badge/💲Donate-yellow)](https://paulocesar-dev404.github.io/me-apoiando-online/)
+[![Sponsor](https://img.shields.io/badge/Documentation-green)](https://github.com/PauloCesar-dev404/kiwify-userAPI/blob/main/docs/iniciando.md)
 
 
-  <i>Obtenha detalhes completos de cursos cujo o usuário esteja inscrito ,da plataforma [Udemy](https://www.udemy.com/) com esta biblioteca</i>
+<i>A biblioteca `kiwify_userAPI` facilita a análise de cursos na Kiwify.
+</i>
   
   ---
 </div>
 
 
-###  Funcionalidades
-- [x] Obter cursos inscritos (cursos com acesso por plano ou comprados ou cursos Grátis)
-- [x] Obter detalhes de Aulas
-- [x] Obter detalhes de um Curso
 
-Se tiver dúvidas ou sugestões, abra uma [issue aqui](https://github.com/PauloCesar-dev404/udemy_userAPI/issues).
+
+###  Funcionalidades
+- [x] Obter cursos inscritos.
+- [x] Obter detalhes de Aulas.
+- [x] Obter detalhes de um Curso.
+
+Se tiver dúvidas ou sugestões, abra uma issue.
 
 ---
 
